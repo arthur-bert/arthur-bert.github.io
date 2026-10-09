@@ -1,0 +1,27 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="2685.7">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica}
+  </style>
+</head>
+<body>
+<p class="p1">body { max-width: 760px; margin: 3rem auto; padding: 0 16px; font: 17px/1.5 Georgia, serif; color: #222; }</p>
+<p class="p1">.intro img { width: 140px; border-radius: 50%; float: right; margin-left: 1rem; }</p>
+<p class="p1">[data-custom-style="CV Name"] p { font-size: 2rem; font-variant: small-caps; text-align: center; margin: 0; }</p>
+<p class="p1">[data-custom-style="CV Contact"] p { text-align: center; margin: 0; }</p>
+<p class="p1">[data-custom-style="CV Section Title"] p { font-variant: small-caps; font-weight: bold; border-bottom: 1px solid #222; margin: 2rem 0 .5rem; }</p>
+<p class="p1">[data-custom-style="CV Line"] p { display: flex; justify-content: space-between; gap: 1rem; margin: .8rem 0 0; }</p>
+<p class="p1">[data-custom-style="CV Line Title"] { font-weight: bold; }</p>
+<p class="p1">[data-custom-style="CV Dates"] { font-style: italic; white-space: nowrap; }</p>
+<p class="p1">[data-custom-style="CV Line Text"] p { margin: 0 0 0 1.5rem; }</p>
+<p class="p1">[data-custom-style="CV Professor"] { font-variant: small-caps; }</p>
+<p class="p1">[data-custom-style="CV Placeholder"] { display: none; }</p>
+<p class="p1">@media (max-width: 600px) { [data-custom-style="CV Line"] p { flex-direction: column; gap: 0; } .intro img { float: none; } }</p>
+</body>
+</html>
